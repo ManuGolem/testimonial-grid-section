@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+footer {
+    text-align: center;
+
+    a {
+        text-decoration: none;
+
+        &:any-link {
+            color: #09f;
+            text-decoration: none;
+        }
+    }
+}
