@@ -24,11 +24,11 @@ Users should be able to:
 
 - Desktop :
 
-![Img desktop] In progress
+![Img desktop](/public/images/testimonial-grid-desktop.png)
 
 - Mobile:
 
-![Img Mobile] In progress
+![Img desktop](/public/images/testimonial-grid-mobile.png)
 
 ### Links
 
