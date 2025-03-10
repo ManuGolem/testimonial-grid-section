@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [In process]("https://manugolem.github.io/testimonial-grid-section/")
+- Live Site URL: [Testimonial grid]("https://manugolem.github.io/testimonial-grid-section/")
 
 ## My process
 
