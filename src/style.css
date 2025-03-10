@@ -25,6 +25,7 @@ article {
     padding: 2rem;
     box-shadow: 8px 8px 20px black;
     font-size: 16px;
+    z-index: 0;
 
     header {
         display: flex;
@@ -64,4 +65,15 @@ footer {
             text-decoration: none;
         }
     }
+}
+
+.fondo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 120px;
+    border-radius: 0px;
+    height: auto;
+    z-index: -1;
+    margin-right: 3rem;
 }
