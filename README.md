@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Manuel Carreras](https://manuelcarreras.netlify.app/)
+- Website - [Manuel Carreras](https://manugolem.github.io/Portfolio/)
 - Frontend Mentor - [@ManuGolem](https://www.frontendmentor.io/profile/ManuGolem)
